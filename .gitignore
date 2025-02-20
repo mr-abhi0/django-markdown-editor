@@ -7,3 +7,5 @@ venv/
 *.pyc
 *note
 *backup*
+editor/
+editor/
